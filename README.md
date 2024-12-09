@@ -41,10 +41,10 @@ Welcome to the **Weather App**, your go-to solution for instant weather updates!
 
 ## 🚀 How to Get Started  
 
-### Prerequisites  
-- An **API key** from [OpenWeatherMap](https://openweathermap.org/).  
+### **Live Demo**  
+Experience the app now: [Dynamic Weather App](https://dynamic-weather-app-desperatecoder.netlify.app/) 🌐  
 
-### Steps  
+### **Run Locally**  
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/your-username/weather-app.git  
